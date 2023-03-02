@@ -1,1 +1,1 @@
-# CodeClause_Stop_watch
+# CodeClause_Timer and Stopwatch
